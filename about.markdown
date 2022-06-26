@@ -8,7 +8,7 @@ permalink: /about/
 
 Our team currently consists of Hope Mumme. 
 
-<img src="site/HMumme.jpg" class="img-responsive" alt=""> </div>
+<img src="site/HMumme.jpg" class="img-responsive" alt="">
 
 Hope is currently a PhD student in computer science, and her specialty is in biomedical informatics.
 She tutors any age (K-12 and college), and specializes in the following subjects:
@@ -18,5 +18,3 @@ She tutors any age (K-12 and college), and specializes in the following subjects
 
 Contact us at mummetutoring@gmail.com or 678-369-3418 to schedule a tutoring session and figure out if 
 Mumme Tutoring is the right fit for you or your student!
-
-test
