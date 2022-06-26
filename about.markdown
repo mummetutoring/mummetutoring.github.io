@@ -6,6 +6,8 @@ permalink: /about/
 
 **Mumme Tutoring** was started in 2022. 
 
+We hold our tutoring sessions in public libraries. Our sessions last between 1-3 hours, and we charge $30 an hour for our tutoring.
+
 Our team currently consists of Hope Mumme. 
 
 ![hmumme_img](HMumme.jpg)
