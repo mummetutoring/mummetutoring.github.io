@@ -18,7 +18,7 @@ Hope is currently a PhD student in computer science, and her specialty is in bio
 - Science (biology, chemistry, cell biology, etc.)
 - Computing (informatics, R, python, Matlab, git, bash, etc.)
 
-![amumme_img](AMumme.jpg)
+![amumme_img](AMumme.jpeg)
 
 Ashlyn is currently a 4th year undegraduate student in aerospace engineering at Georgia Tech. She tutors any age (K-12 and college), and specializes in the following subjects:
 - Math (calculus, 
