@@ -8,7 +8,7 @@ permalink: /about/
 
 Our team currently consists of Hope Mumme. 
 
-![hmumme_image](https://github.com/mummetutoring/mummetutoring.github.io/blob/328a1535ead3db3fe86db2a161f1f712f5e14423/site/HMumme.jpg)
+<img src="site/HMumme.jpg" class="img-responsive" alt=""> </div>
 
 Hope is currently a PhD student in computer science, and her specialty is in biomedical informatics.
 She tutors any age (K-12 and college), and specializes in the following subjects:
