@@ -5,7 +5,6 @@
 layout: home
 ---
 
-## Welcome to Mumme Tutoring!
 
 ![logo](logo.png)
 
