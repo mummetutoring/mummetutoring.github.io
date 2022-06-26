@@ -8,7 +8,7 @@ permalink: /about/
 
 We hold our tutoring sessions in public libraries. Our sessions last between 1-3 hours, and we charge $30 an hour for our tutoring.
 
-Our team currently consists of Hope and Ashlyn Mumme. 
+Our team currently consists of Hope Mumme and Ashlyn Mumme. 
 
 ![hmumme_img](HMumme.jpg)
 
