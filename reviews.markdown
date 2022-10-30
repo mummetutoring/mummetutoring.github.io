@@ -4,8 +4,6 @@ title: Reviews
 permalink: /reviews/
 ---
 
-## Reviews
-
 * "Hope is amazing!! She is very patient with my daughter. She is always well prepared and detailed oriented when it comes to sharing progress and/or areas of improvement. She makes learning fun by incorporating games and activities that keeps students' attention. I am so happy that I found her and look forward to her being apart of daughter's academic journey!! We love you, Hope!!"
 
 ## Submit a Review
